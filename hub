@@ -1,6 +1,6 @@
 --* Script Info *--
 local script_version_number = "v8"
-local last_updated = "03/02/2023"
+local last_updated = "08/17/2023 by Tion_D"
 
 --* Setup Script *--
 repeat wait() until game:IsLoaded() 
